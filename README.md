@@ -1,5 +1,8 @@
 # A4app
 
+## Description
+This project shows the fundamentals of Angular 4. It demonstrates the use of components, services, calling an external api to get data for the service component of the app, data binding, two way data binding, routing, etc.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
 
 ## Development server
